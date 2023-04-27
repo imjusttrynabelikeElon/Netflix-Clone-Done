@@ -1,8 +1,6 @@
 # Netflix-Clone-Done
 Created A Netflix Clone in UIKit that used some frameworks like Core Data,  SDWebImage and WKWebView and more.
 
-
-
 Heres The Launch Screen
 
 
@@ -45,6 +43,5 @@ Also if you want to download the movie just hold down on the selected movie then
 
 
 <img width="531" alt="Screenshot 2023-04-26 at 10 33 44 PM" src="https://user-images.githubusercontent.com/106272587/234745032-59d2d7b2-83e3-4dd3-adc3-dfa1489ae7cd.png">
-
 
 
